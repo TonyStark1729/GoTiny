@@ -1,5 +1,3 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/user/repo/main/public/favicon.svg" alt="GoTiny Logo" width="120" height="120">
   
   # 🔗 GoTiny
   
@@ -435,4 +433,5 @@ copies of the Software...
   [🔗 GoTiny](https://your-gotiny-app.com) • [📖 Docs](https://docs.gotiny.com) • [💬 Discord](https://discord.gg/gotiny)
 
 </div>
+
 
