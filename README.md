@@ -9,7 +9,7 @@
   [![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen.svg)]()
   [![No Auth](https://img.shields.io/badge/Authentication-None-red.svg)]()
 
-  [Live Demo](https://your-gotiny-app.com) • [Report Bug](https://github.com/user/gotiny/issues) • [Request Feature](https://github.com/user/gotiny/issues)
+  [Live Demo](https://go-tiny-liart.vercel.app/) • [Report Bug](https://github.com/RajdeepKushwaha5/GoTiny/issues) • [Request Feature](https://github.com/RajdeepKushwaha5/GoTiny/issues)
 
 ![GoTiny Demo](./public/demo.png)
 
@@ -414,11 +414,11 @@ copies of the Software...
 
 **Need help?**
 
-[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red.svg)](https://github.com/yourusername/gotiny/issues)
-[![Email](https://img.shields.io/badge/Email-Support-blue.svg)](mailto:support@gotiny.com)
+[![GitHub Issues](https://img.shields.io/badge/GitHub-Issues-red.svg)](https://github.com/RajdeepKushwaha5/GoTiny/issues)
+[![Email](https://img.shields.io/badge/Email-Support-blue.svg)](mailto:rajdeepsingh10789@gmail.com)
 
-**Found a bug?** [Report it here](https://github.com/yourusername/gotiny/issues)  
-**Have a suggestion?** [Share it with us](https://github.com/yourusername/gotiny/issues)
+**Found a bug?** [Report it here](https://github.com/RajdeepKushwaha5/GoTiny/issues)  
+**Have a suggestion?** [Share it with us](https://github.com/RajdeepKushwaha5/GoTiny/issues)
 
 </div>
 
@@ -428,10 +428,11 @@ copies of the Software...
   
   **⭐ Star this repo if you find it helpful!**
   
-  Made with ❤️ by the GoTiny Team
+  Made with ❤️ by Rajdeep Singh
   
-  [🔗 GoTiny](https://your-gotiny-app.com) • [📖 Docs](https://docs.gotiny.com) • [💬 Discord](https://discord.gg/gotiny)
+  [🔗 GoTiny](https://go-tiny-liart.vercel.app/) • [📖 Docs](https://github.com/RajdeepKushwaha5/GoTiny/blob/main/README.md) • [💬 Discord](https://discord.gg/)
 
 </div>
+
 
 
