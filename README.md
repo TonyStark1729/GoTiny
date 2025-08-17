@@ -13,6 +13,10 @@
 
   [Live Demo](https://your-gotiny-app.com) • [Report Bug](https://github.com/user/gotiny/issues) • [Request Feature](https://github.com/user/gotiny/issues)
 
+![GoTiny Demo](./public/demo.png)
+
+
+
 </div>
 
 ---
@@ -431,3 +435,4 @@ copies of the Software...
   [🔗 GoTiny](https://your-gotiny-app.com) • [📖 Docs](https://docs.gotiny.com) • [💬 Discord](https://discord.gg/gotiny)
 
 </div>
+
