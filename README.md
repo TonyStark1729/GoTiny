@@ -83,13 +83,13 @@
 <div align="center">
   
   ### 🖥️ Desktop Experience
-  <img src="https://via.placeholder.com/800x500/0f172a/3b82f6?text=Desktop+Screenshot" alt="Desktop Screenshot" width="800">
+  <img src="./public/demo.png" alt="Desktop Screenshot" width="800">
   
   ### 📱 Mobile Experience
-  <img src="https://via.placeholder.com/300x600/0f172a/8b5cf6?text=Mobile+Screenshot" alt="Mobile Screenshot" width="300">
+  <img src="./public/mobile_image.png" alt="Mobile Screenshot" width="300">
   
   ### 🔳 QR Code Modal
-  <img src="https://via.placeholder.com/400x400/1e293b/22c55e?text=QR+Code+Modal" alt="QR Code Modal" width="400">
+  <img src="./public/qr_image.png" alt="QR Code Modal" width="400">
 
 </div>
 
@@ -433,6 +433,7 @@ copies of the Software...
   [🔗 GoTiny](https://go-tiny-liart.vercel.app/) • [📖 Docs](https://github.com/RajdeepKushwaha5/GoTiny/blob/main/README.md) • [💬 Discord](https://discord.gg/)
 
 </div>
+
 
 
 
