@@ -21,7 +21,7 @@
 
 ## 🌟 About GoTiny
 
-**GoTiny** is a sleek, lightning-fast URL shortener designed for simplicity and speed. With no sign-up required, users can instantly transform long URLs into short, shareable links complete with QR codes and copy-to-clipboard functionality.
+**GoTiny** is a sleek, lightning-fast URL shortener designed for simplicity and speed. With no sign-up required, users can instantly transform long URLs into short, shareable links complete with QR codes and copy-to-clipboard functionality.No tracking , just pure functionality!
 
 ### ✨ Why GoTiny?
 
@@ -433,6 +433,7 @@ copies of the Software...
   [🔗 GoTiny](https://go-tiny-liart.vercel.app/) • [📖 Docs](https://github.com/RajdeepKushwaha5/GoTiny/blob/main/README.md) • [💬 Discord](https://discord.gg/)
 
 </div>
+
 
 
 
